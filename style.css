@@ -1,0 +1,24 @@
+body {
+    font-family: sans-serif;
+}
+header{
+   background-color: aqua;
+}
+h1{
+    color :blueviolet;
+}
+footer p{
+    font-size: small;
+    background-color: chartreuse;
+}
+nav {
+   background-color:rgb(35, 204, 2);
+}
+.kry {
+    width: 700px;
+    height: 80px;
+   background-color: saddlebrown; 
+}
+ .ro  { 
+  color: blue;
+}
